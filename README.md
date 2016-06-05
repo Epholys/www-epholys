@@ -1,2 +1,2 @@
 # www-epholys
-www.epholys.com's repository
+www.epholys.com repository
